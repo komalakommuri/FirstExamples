@@ -1,0 +1,1 @@
+Count of Numbers in given file 3Number of vowels in given file6Number of consonants in given file10
